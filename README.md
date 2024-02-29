@@ -15,10 +15,7 @@
 
 
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=LinaMahrouch'> <a href="https://github.com/linamahrouch?tab=followers"><img src="https://img.shields.io/github/followers/linamahrouch?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNvMnZ4bHJkMmlhN2NvcHJncmMzbjNrejhma2M1c3FjY2YwZjE5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y3V6FrLNctGTrICM0d/giphy.gif" />
-<img src="https://media.giphy.com/media/8q0MYyDT3v1JTPhfKc/giphy.gif" height="160px" width="160px"> 
+
 
 
 
